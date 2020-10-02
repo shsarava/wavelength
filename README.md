@@ -1,2 +1,2 @@
-# wavelength
-wavelength demos and Immersion Day
+# AWS Wavelength
+AWS Wavelength Immersion Day
